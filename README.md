@@ -18,3 +18,5 @@ There is also a folder with my notes from **Sander van Gut** certification book.
 
 **All the questions were validated by me on CentOS 7 - it is possible that it won't be working for newer versions!!! Questions for
 RHCSA 8 exams are explicitly marked.**
+
+Hello!
